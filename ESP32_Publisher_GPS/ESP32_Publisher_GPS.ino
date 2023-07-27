@@ -46,12 +46,12 @@ const char* ssid = "SecureTechware2";
 const char* password = "$7001123";
 //MQTT Server Connection
 #define mqtt_server "broker.hivemq.com"
-#define owner "ArsalanSaleemSecureTechwarePublisher"
-#define mqtt_user "ArsalanSaleemSecureTechwarePublisher"
-#define mqtt_password "ArsalanSaleemSecureTechware"
-#define status_topic "SecureTechware_MCP2515_Status"
-#define gps_data_topic "SecureTechware_GPS_Data"
-#define data_topic "SecureTechware_MCP2515_Data"
+#define owner "ArsalanSaleemSecureTechwarePublisher_3_1"
+#define mqtt_user "ArsalanSaleemSecureTechwarePublisher_3_1"
+#define mqtt_password "ArsalanSaleemSecureTechware_3_1"
+#define status_topic "SecureTechware_MCP2515_Status_3_1"
+#define gps_data_topic "SecureTechware_GPS_Data_3_1"
+#define data_topic "SecureTechware_MCP2515_Data_3_1"
 
 
 
